@@ -2,7 +2,7 @@
 
 <h3>this is basically a simple React application developed while completing brad traversy's React course.</h3>
 <b>I have also hosted it on netlify so do check out!!</b>
-<a href="https://githubsearch03.netlify.app/">Link to project</a>
+<a href="https://githubsearch03.netlify.app/" target="_blank">Link to project</a>
 
 some screenshots of the project:
 <br />
