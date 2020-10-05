@@ -1,3 +1,32 @@
+## GitHub Finder application using github's API
+
+<h3>this is basically a simple React application developed while completing brad traversy's React course.</h3>
+<b>I have also hosted it on netlify so do check out!!</b>
+<a href="https://githubsearch03.netlify.app/">Link to project</a>
+
+some screenshots of the project:
+<br />
+<img src="./assets/Screenshot (269).png" width=1000px/>
+<br />
+<br/>
+<br/>
+<br/>
+<img src="./assets/Screenshot (270).png" width=1000px/>
+<br />
+<br/>
+<br/>
+<br />
+<img src="./assets/Screenshot (272).png" width=1000px />
+<br/>
+<br/>
+<br/>
+<br/>
+<img src="./assets/Screenshot (274).png" width=1000px/>
+
+
+<h3>Feel free to contribute!!</h3>
+<h2>HAPPY CODING!!</h2>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
