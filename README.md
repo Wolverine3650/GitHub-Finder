@@ -1,5 +1,5 @@
 ## GitHub Finder application using github's API
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6410b545-1958-4441-a148-e4749724b789/deploy-status)](https://githubsearch03.netlify.app/)
 <h3>this is basically a simple React application developed while completing brad traversy's React course.</h3>
 <b>I have also hosted it on netlify so do check out!!</b>
 <a href="https://githubsearch03.netlify.app/" target="_blank">Link to project</a>
